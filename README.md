@@ -2,7 +2,7 @@
 - 👀 I'm have graduated from High School Insan Cendekia
 - 🌱 I’m interested Machine Learning, Big data, and Blockchain.
 - 💞️ I’m looking to collaborate on sharing
-- 📫 I'm still newbie .
+- 📫 No Code, No Enjoy .
 
 <!---
 Abidsyakur/Abidsyakur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
