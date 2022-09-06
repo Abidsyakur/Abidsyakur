@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Abid A Syakur
-- 👀 I'm have graduated from High School Insan Cendekia
+- 👀 I'm Student at Electronic Engineering Polytechnic Institute of Surabaya
 - 🌱 I’m interested Machine Learning, Big data, and Blockchain.
 - 💞️ I’m looking to collaborate on sharing
 - 📫 No Code, No Enjoy .
